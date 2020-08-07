@@ -15,6 +15,7 @@ export const blue = '#0878BE'
 
 // Other
 
+export const black = '#000000'
 export const darkGrey = '#393939'
 export const grey = '#4F4D4A'
 export const greyText = '#706D69'
