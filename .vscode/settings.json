@@ -1,0 +1,7 @@
+{
+    "editor.tokenColorCustomizationsExperimental": null,
+    "workbench.colorCustomizations": {
+        "editor.selectionBackground": "#00d7489a",
+        "editor.selectionHighlightBackground": "#fc82fc"
+    },
+}
